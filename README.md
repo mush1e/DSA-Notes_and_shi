@@ -89,10 +89,7 @@ DP: ██░░░░░░░░ 20%
 
 ## 🛠️ Languages Used
 
-- **Python** 🐍 - Primary language (because life's too short for semicolons)
-- **JavaScript** 📜 - For when I'm feeling web-dev-ish
-- **Java** ☕ - Sometimes you need that enterprise feel
-- **C++** ⚡ - For when I want to feel like a real programmer
+- **C++** ⚡ - Mama didn't raise no bitch
 
 ## 🎭 Personal Philosophy
 
