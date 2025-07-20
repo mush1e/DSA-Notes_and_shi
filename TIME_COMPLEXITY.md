@@ -308,5 +308,3 @@ If your algorithm would take longer than the heat death of the universe, you mig
 ---
 
 **Remember:** In interviews, they care more about you understanding the concepts than memorizing exact formulas. Be able to reason through why your solution has the complexity it does, and you're golden! 🚀
-
-#complexity #algorithms #interview #optimization
